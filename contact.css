@@ -1,0 +1,6 @@
+ul{
+    list-style-type: none;
+    text-align: justify;
+    list-style-position: inside;
+    padding-left: 0;
+}

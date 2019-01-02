@@ -1,0 +1,18 @@
+.content {
+    display: flex;
+  }
+  
+  .content img {
+    margin-right: 10px;
+    display: block;
+    border-radius: 50%;
+    height: 15%; 
+    width: 15%;
+  }
+  
+  .content h3,
+  .content p {margin: 0;}
+  .text{
+      padding-top: 40px;
+      padding-left: 15px;
+  }
